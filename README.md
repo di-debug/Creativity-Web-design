@@ -13,7 +13,7 @@
 
 ---
 
-### Checkout the live website [here](https://project14-creativity-web_design.netlify.app/).
+### Checkout the live website [here](https://project14-creativity-web-design.netlify.app/).
 
 ---
 
@@ -25,5 +25,5 @@
 
 ## How the website looks like
 
-### Desktop Mode ![Tablet](./14.jpg)
+### Desktop Mode ![Tablet](./14.png)
 
